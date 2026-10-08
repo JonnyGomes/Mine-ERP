@@ -1,0 +1,8 @@
+{
+  "name": "JG_IERP - Mini IERP Gerencial & PDV",
+  "description": "Sistema ERP gerencial e PDV completo com controle de vendas, estoque, caixa, financeiro e emissão de pedidos A4 e térmicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
